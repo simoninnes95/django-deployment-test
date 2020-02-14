@@ -28,7 +28,9 @@ SECRET_KEY = '1@f5tkvkj1d6s_1xhq$-ppp8d7c)9$ugch*#4v^9b1(0!h-&fo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'innsim002.pythonanywhere.com',
+]
 
 
 # Application definition
